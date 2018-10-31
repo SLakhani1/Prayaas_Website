@@ -1,56 +1,8 @@
+# Prayaas
+## Who We Are?
 
-TITLE: 
-Charity - 100% Fully Responsive Free HTML5 Bootstrap Template
+Prayaas is an initiative to promote education among rural areas by taking tuition classes of children that belong to rural areas free of cost and also pays school fees of some bright students .
 
-AUTHOR:
-DESIGNED & DEVELOPED by FREEHTML5.co
+This repository contains the source code for Prayaas Website.
 
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
-
-
-CREDITS:
-
-Bootstrap
-http://getbootstrap.com/
-
-jQuery
-http://jquery.com/
-
-jQuery Easing
-http://gsgd.co.uk/sandbox/jquery/easing/
-
-Modernizr
-http://modernizr.com/
-
-Google Fonts
-https://www.google.com/fonts/
-
-Google Map
-http://maps.google.com
-
-Icomoon
-https://icomoon.io/app/
-
-Respond JS
-https://github.com/scottjehl/Respond/blob/master/LICENSE-MIT
-
-animate.css
-http://daneden.me/animate
-
-jQuery Waypoint
-https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
-
-Superfish Menu
-http://users.tpg.com.au/j_birch/plugins/superfish/examples/
-
-hoverIntent
-https://github.com/briancherne/jquery-hoverIntent
-
-Stellar Parallax
-http://markdalgleish.com/projects/stellar.js/
-
-Demo Images
-http://unsplash.com/
-
+It will be deployed at Heokuapp initially @ www.newprayaas.herokuapp.com

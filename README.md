@@ -5,4 +5,4 @@ Prayaas is an initiative to promote education among rural areas by taking tuitio
 
 This repository contains the source code for Prayaas Website.
 
-It will be deployed at Heokuapp initially @ www.newprayaas.herokuapp.com
+You can see it @ https://prayaas.netlify.com/ or https://slakhani1.github.io/Prayaas_Website/
